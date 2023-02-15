@@ -1,0 +1,18 @@
+h1{
+    font-size: 60px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+body{
+   background: url(https://krot.info/uploads/posts/2022-02/1645047514_5-krot-info-p-belii-fon-s-zelenimi-listyami-6.jpg);
+}
+
+a{
+    font-size: 30px;
+}
